@@ -1,0 +1,5 @@
+# This is a sample configuatiton file
+
+VAR1=12
+
+VAR2=Thursday
